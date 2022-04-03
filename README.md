@@ -18,17 +18,17 @@ This repo contains the landing page of the platform and all other screen that wi
 
 ## Folders and Files used:
 
-[Images]()<br>
+[Images](https://github.com/Fairexx-IT-Solutions/MSO-website-Template/tree/main/images)<br>
 
-[Images/Teachers]()
+[Images/Teachers](https://github.com/Fairexx-IT-Solutions/MSO-website-Template/tree/main/images/teachers)
 
-[Contact Page]()
+[Contact Page](https://github.com/Fairexx-IT-Solutions/MSO-website-Template/tree/main/contacts)
 
-[About School]()
+[About School](https://github.com/Fairexx-IT-Solutions/MSO-website-Template/tree/main/school/about)
 
-[Blog]()
+[Blog](https://github.com/Fairexx-IT-Solutions/MSO-website-Template/tree/main/promotion)
 
-[JavaScript and CSS files]()
+[JavaScript and CSS files](https://github.com/Fairexx-IT-Solutions/MSO-website-Template/tree/main/local/templates/desktop)
 
 ## Technologies used
 
@@ -41,33 +41,11 @@ This repo contains the landing page of the platform and all other screen that wi
 - PhP ot Node
 
 
-## Instructions for installation Android Application:
-
-- Fork the repository at 
-- Clone the project to your local machine
-- open the Yourvoiceapp folder using Android Studio or VSCode to run the Android files.
-- Host the content of the remaining file on a local machine or any available server.
-
-## Instructions for installation For the website:
-- Click on sign up to create a new election on the website.
-- run the file on your local computer and create a Pull Request"
-
-
-## Screenshots for the Admin website
-
-<img src="https://github.com/Alphadude/teamfun/blob/main/assets/adminsignup.png" width="80%" alt="Screen2" hspace="15">
-
-<img src="https://github.com/Alphadude/teamfun/blob/main/assets/adminlogin.png" width="80%" alt="Screen2" hspace="15">
-
-<img src="https://github.com/Alphadude/teamfun/blob/main/assets/admindashboard.png" width="80%" alt="Screen2" hspace="15">
-
-<img src="https://github.com/Alphadude/teamfun/blob/main/assets/adminnewelection.png" width="80%" alt="Screen2" hspace="15">
-
-## Screenshots for the website
+## Screenshots for the website Index Page
 
 <img src="https://github.com/Alphadude/teamfun/blob/main/images/landingpage.png" width="80%" alt="Screen2"  hspace="15">
 
-## Screenshots for the website
+## Screenshots for the website About Us Page
 <img src="https://github.com/Alphadude/teamfun/blob/main/resources/homemiddle.png" width="80%" alt="Screen2" hspace="15">
 
 ## Screenshots for the website
