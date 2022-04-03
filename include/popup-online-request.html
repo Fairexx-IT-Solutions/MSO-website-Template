@@ -1,0 +1,40 @@
+<div>
+<div class="elc_form  elc_ajax" id='blockf05eb216c380ed9cd3215d78dd704594'>
+<div class="popup-title">Заявка на онлайн-прием</div>    <div class="wrap-column">
+        <div class="popup-side-block">
+            <div class="popup-text">Заявка является предварительной. С&#160;вами свяжется оператор, чтобы подтвердить запись.</div>        </div>
+        <form action="https://persona-detstvo.ru/include/popup-online-request.php" method="POST" enctype="multipart/form-data" class="form">
+            <input type="hidden" name="sessid" id="sessid" value="ef4a45d0a47748708fcccc713857a526" />                                                <label for="FIO" class="input required">
+                <div class="input-title">ФИО пациента</div>
+                <input type='text' id='FIO' name='FIO' class='' value=''>            </label>
+                                                <label for="TELEFON" class="input required">
+                <div class="input-title">Телефон</div>
+                <input type='tel' id='TELEFON' name='TELEFON' class='' value=''><script type="text/javascript">
+                    $(document).ready(function() {
+                        $("input[name='TELEFON']").inputmask({mask:"+7 (999) 999-99-99",showMaskOnHover: false});
+                    });
+                </script>            </label>
+                                                <label for="EMAIL" class="input required">
+                <div class="input-title">Электронная почта</div>
+                <input type='email' id='EMAIL' name='EMAIL' class='' value=''>            </label>
+                                                <label for="COMMENT" class="input ">
+                <div class="input-title">Комментарий</div>
+                <textarea name='COMMENT' id='COMMENT' class=''></textarea>            </label>
+                                                <div class="form-agreement">
+                <input type="checkbox" name="POLICY" id="POLICY" value="Y" class="form-agreement-checkbox checkbox-privacy-policy">
+                <label class="form-agreement-label" for="POLICY">
+                    <span class="form-agreement-icon">
+                        <img src="../local/templates/desktop/img/icons/checkmark-white.svg" alt="icon">
+                    </span>
+                    <span class="form-agreement-title">
+                        Я&#160;принимаю условия <button class="open-popup-policy" data-src="/include/popup-policy.php">Политики конфиденциальности</button> и&#160;даю <button class="open-popup-agreement" data-src="/include/popup-agreement.php">согласие</button> на&#160;обработку своих персональных данных
+                    </span>
+                </label>
+            </div>
+                                    <input type="hidden" name="PARAMS_HASH" value="f05eb216c380ed9cd3215d78dd704594">
+            <button type="submit" class="btn btn-primary form-submit disabled" disabled>
+                <div class="btn-bg"></div>
+                Записаться            </button>
+        </form>
+    </div>
+</div></div>

@@ -1,0 +1,34 @@
+<div>
+<div class="elc_form  elc_ajax" id='block3af0729137570f1e50d9d32fcaa4fd9f'>
+<div class="popup-title">Связь с менеджером</div>    <div class="wrap-column">
+        <div class="popup-side-block">
+            <div class="popup-text">Вы можете позвонить по номеру<br><a href='tel:88314223060' class='popup-phone'>8 (831) 422-30-60</a><br><br>или оставить свои данные, и мы свяжемся с вами в ближайшее время</div>        </div>
+        <form action="https://persona-detstvo.ru/include/popup-connect-manager.php" method="POST" enctype="multipart/form-data" class="form">
+            <input type="hidden" name="sessid" id="sessid" value="ef4a45d0a47748708fcccc713857a526" />                                                <label for="VASHE_IMYA" class="input required">
+                <div class="input-title">Имя</div>
+                <input type='text' id='VASHE_IMYA' name='VASHE_IMYA' class='' value=''>            </label>
+                                                <label for="NOMER_TELEFONA" class="input required">
+                <div class="input-title">Номер телефона</div>
+                <input type='tel' id='NOMER_TELEFONA' name='NOMER_TELEFONA' class='' value=''><script type="text/javascript">
+                    $(document).ready(function() {
+                        $("input[name='NOMER_TELEFONA']").inputmask({mask:"+7 (999) 999-99-99",showMaskOnHover: false});
+                    });
+                </script>            </label>
+                                                <div class="form-agreement">
+                <input type="checkbox" name="POLICY" id="POLICY" value="Y" class="form-agreement-checkbox checkbox-privacy-policy">
+                <label class="form-agreement-label" for="POLICY">
+                    <span class="form-agreement-icon">
+                        <img src="../local/templates/desktop/img/icons/checkmark-white.svg" alt="icon">
+                    </span>
+                    <span class="form-agreement-title">
+                        Я&#160;принимаю условия <button class="open-popup-policy" data-src="/include/popup-policy.php">Политики конфиденциальности</button> и&#160;даю <button class="open-popup-agreement" data-src="/include/popup-agreement.php">согласие</button> на&#160;обработку своих персональных данных
+                    </span>
+                </label>
+            </div>
+                                    <input type="hidden" name="PARAMS_HASH" value="3af0729137570f1e50d9d32fcaa4fd9f">
+            <button type="submit" class="btn btn-primary form-submit disabled" disabled>
+                <div class="btn-bg"></div>
+                Отправить            </button>
+        </form>
+    </div>
+</div></div>
