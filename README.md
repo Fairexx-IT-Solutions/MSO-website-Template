@@ -43,24 +43,24 @@ This repo contains the landing page of the platform and all other screen that wi
 
 ## Screenshots for the website Index Page
 
-<img src="https://github.com/Alphadude/teamfun/blob/main/images/landingpage.png" width="80%" alt="Screen2"  hspace="15">
+<img src="https://github.com/Fairexx-IT-Solutions/MSO-website-Template/blob/main/images/flow.gif" width="80%" alt="Screen2"  hspace="15">
 
 ## Screenshots for the website About Us Page
-<img src="https://github.com/Alphadude/teamfun/blob/main/resources/homemiddle.png" width="80%" alt="Screen2" hspace="15">
+<img src="https://github.com/Fairexx-IT-Solutions/MSO-website-Template/blob/main/images/about.png" width="80%" alt="Screen2" hspace="15">
 
-## Screenshots for the website
+## Screenshots for the Teachers Page
 
-<img src="https://github.com/Alphadude/teamfun/blob/main/images/landingpage.png" width="80%" alt="Screen2"  hspace="15">
+<img src="https://github.com/Fairexx-IT-Solutions/MSO-website-Template/blob/main/images/teacher.png" width="80%" alt="Screen2"  hspace="15">
 
-## Screenshots for the website
-<img src="https://github.com/Alphadude/teamfun/blob/main/resources/homemiddle.png" width="80%" alt="Screen2" hspace="15">
+## Screenshots for the Gallery
+<img src="https://github.com/Fairexx-IT-Solutions/MSO-website-Template/blob/main/images/gallery.png" width="80%" alt="Screen2" hspace="15">
 
-## Screenshots for the website
+## Screenshots for the Blog Page
 
-<img src="https://github.com/Alphadude/teamfun/blob/main/images/landingpage.png" width="80%" alt="Screen2"  hspace="15">
+<img src="https://github.com/Fairexx-IT-Solutions/MSO-website-Template/blob/main/images/blog.png" width="80%" alt="Screen2"  hspace="15">
 
-## Screenshots for the website
-<img src="https://github.com/Alphadude/teamfun/blob/main/resources/homemiddle.png" width="80%" alt="Screen2" hspace="15">
+## Screenshots for the Contact Page
+<img src="https://github.com/Fairexx-IT-Solutions/MSO-website-Template/blob/main/images/contact.png" width="80%" alt="Screen2" hspace="15">
 
 ### Want a new feature? 🆕
 If you want to request for a new feature, you can create an issue [here](https://github.com/ksinnovationhub/teamfun/issues). Endeavour to follow the guidelines for requesting a new feature.
